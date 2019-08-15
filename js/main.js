@@ -84,24 +84,24 @@ if($().circleProgress){
 
 	//Set progress circle 1
 	$("#progress1").circleProgress({
-		value: 0.75,
+		value: 0.95,
 		size: 175,
 		thickness: 2,
-		fill: "#40424a",
+		fill: "#ffffff",
 		emptyFill: "rgba(0, 0, 0, 0)"
 	});
 	//Set progress circle 2
 	$("#progress2").circleProgress({
-		value: 0.83,
+		value: 0.85,
 		size: 175,
 		thickness: 2,
-		fill: "#40424a",
+		fill: "#ffffff",
 		emptyFill: "rgba(0, 0, 0, 0)"
 	});
 
 	//Set progress circle white
 	$("#progress3").circleProgress({
-		value: 0.75,
+		value: 0.90,
 		size: 175,
 		thickness: 2,
 		fill: "#ffffff",
@@ -110,7 +110,7 @@ if($().circleProgress){
 
 	//Set progress circle white
 	$("#progress4").circleProgress({
-		value: 0.83,
+		value: 0.90,
 		size: 175,
 		thickness: 2,
 		fill: "#ffffff",
@@ -122,7 +122,7 @@ if($().circleProgress){
 		value: 0.75,
 		size: 175,
 		thickness: 2,
-		fill: "#009fff",
+		fill: "#ffffff",
 		emptyFill: "rgba(0, 0, 0, 0)"
 	});
 
@@ -131,7 +131,7 @@ if($().circleProgress){
 		value: 0.83,
 		size: 175,
 		thickness: 2,
-		fill: "#009fff",
+		fill: "#ffffff",
 		emptyFill: "rgba(0, 0, 0, 0)"
 	});
 }
